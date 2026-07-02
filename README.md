@@ -6,7 +6,7 @@ Python `.py` dosyalarını kolayca `.exe` formatına dönüştürün. PyInstalle
 
 ## 📸 Ekran Görüntüsü
 
-> *(<img width="898" height="997" alt="Ekran görüntüsü 2026-07-02 111224" src="https://github.com/user-attachments/assets/af3633dc-1a96-4730-adb2-29bb83b2fc3a" />)*
+> *<img width="898" height="997" alt="Ekran görüntüsü 2026-07-02 111224" src="https://github.com/user-attachments/assets/af3633dc-1a96-4730-adb2-29bb83b2fc3a" />*
 
 <br>
 
